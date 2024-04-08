@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Reactjs, Next.js<br>🎯 On my way to become a ReactJs pro</p>
+<p align="left">📚 I'm currently learning MERN stack<br>🎯 On my way to become a ReactJs pro</p>
 
 ###
 
