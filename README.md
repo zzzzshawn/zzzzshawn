@@ -1,8 +1,7 @@
-<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">I'm Shawn D'silva</p>
+<h1 align="left">Shawn D'silva</h1>
 
 ###
 
