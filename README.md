@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN stack<br>🎯 On my way to become a ReactJs pro</p>
+<p align="left">📚 Currently learning MERN stack<br>🎯 On my way to become a ReactJs pro</p>
 
 ###
 
